@@ -1,0 +1,10 @@
+/* Der Hintergrund ist blau. */
+body {
+    background-color: rgb(192, 232, 238);
+  }
+  h1 {
+    color: rgb(233, 120, 195);
+  }
+  p {
+    color: rgb(124, 37, 170);
+  }

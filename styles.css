@@ -1,6 +1,30 @@
+/* 
+Der Sinn der styles.css ist, die Farben, 
+die Schriftgröße/-art und das Aussehen aller Elemente in der 
+HTML-Datei zu gestaltenn 
+*/
+
 /* Der Hintergrund ist blau. */
 body {
     background-color: rgb(192, 232, 238);
+  }
+
+  table{
+    border: 1px solid;
+    width: 100%;
+  }
+
+  tr{
+    border: 1px solid;
+  }
+
+  td{
+    border: 1px solid;
+  }
+
+  th{
+    border: 1px solid;
+    background-color: rgb(201, 144, 201);
   }
   h1 {
     color: rgb(233, 120, 195);
